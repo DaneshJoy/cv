@@ -1,0 +1,98 @@
+توسعه یک روش تصحیح مرز یادگیری عمیق قابل توضیح با ترکیب مدل‌های x-Dim آبشاری برای بهبود نقایص تقسیم‌بندی در تصاویر CT کبد
+Developing an explainable deep learning boundary correction method by incorporating cascaded x-Dim models to improve segmentation defects in liver CT images
+https://doi.org/10.1016/j.compbiomed.2021.105106
+Computers in Biology and Medicine
+140
+0010-4825
+7.7
+2022 1
+
+ترکیب روش‌های CNN، CBMIR، و تکنیک های تجسم برای تشخیص و تعیین کمیت بیماری کووید-19
+Integration of CNN, CBMIR, and Visualization Techniques for Diagnosis and Quantification of Covid-19 Disease
+https://doi.org/10.1109/JBHI.2021.3067333
+IEEE Journal of Biomedical and Health Informatics
+25 6
+1873 1880
+2168-2208
+7.7
+2021 3
+
+به‌کارگیری دانش پیشین برای شکل، با استفاده از مدل محاسبه هزینه، برای بهبود بخش‌بندی سه‌بعدی کبد در مدل‌های کانولوشنی عمیق
+Incorporating prior shape knowledge via data-driven loss model to improve 3D liver segmentation in deep CNNs
+https://doi.org/10.1007/s11548-019-02085-y
+International Journal of Computer Assisted Radiology and Surgery
+15
+249 257
+1861-6429
+3
+2020 2
+
+بهبود عملکرد مدل‌های کانولوشنی عمیق در بخش بندی تصاویر پزشکی با منابع محدود
+Improving the Performance of Deep CNNs in Medical Image Segmentation with Limited Resources
+https://doi.org/10.1007/978-3-030-32606-7_5
+Deep Learning in Healthcare. Intelligent Systems Reference Library
+171
+79 94
+1868-4408
+1
+2019 11
+
+معرفی یک رویکرد ترکیبی از روش‌های تجزیه حالت تجربی و PCA برای پردازش سیگنال ECG مادر و جنین
+Introducing a combined approach of empirical mode decomposition and PCA methods for maternal and fetal ECG signal processing
+https://doi.org/10.3109/14767058.2015.1114089
+The Journal of Maternal-Fetal & Neonatal Medicine
+29 19
+3104 3109
+1476-4954
+1.8
+2016 1
+
+یک رویکرد جدید برای استخراج الکتروکاردیوگرام جنین بر اساس تجزیه حالت تجربی و تجزیه و تحلیل همبستگی
+A novel approach to the extraction of fetal electrocardiogram based on empirical mode decomposition and correlation analysis
+https://doi.org/10.1007/s13246-017-0560-4
+Australasian Physical & Engineering Sciences in Medicine
+40
+565 574
+2662-4737
+4.4
+2017 5
+
+ارزیابی دقت روش بدون نشانگر برای انطباق تصاویر CT و دوربین استریو به کار رفته در ایمپلنتولوژی هدایت شده با تصویر
+Accuracy assessment of a marker-free method for registration of CT and stereo images applied in image-guided implantology: A phantom study
+https://doi.org/10.1016/j.jcms.2014.09.002
+Journal of Cranio-Maxillofacial Surgery
+42 8
+1977 1988
+1878-4119
+3.1
+2014 12
+
+یک روش تابش لندمارک برای کاهش خطای انطباق در سامانه‌های ناوبری جراحی هدایت شده با تصویر
+A projected landmark method for reduction of registration error in image-guided surgery systems
+https://doi.org/10.1007/s11548-014-1075-z
+International Journal of Computer Assisted Radiology and Surgery
+10
+541 554
+1861-6429
+3
+2015 5
+
+پیکربندی لندمارک‌‌ها مبتنی بر ناحیه آناتومیکی برای جراحی سینوس با استفاده از سیستم ناوبری جراحی هدایت شده با تصویر
+A region-based anatomical landmark configuration for sinus surgery using image guided navigation system: A phantom-study
+https://doi.org/10.1016/j.jcms.2013.11.019
+Journal of Cranio-Maxillofacial Surgery
+42 6
+816 824
+1878-4119
+3.1
+2013 12
+
+الگوریتم جستجوی مسیر سبک وزن سریع مبتنی بر مختصات برای برونکوسکوپی با ناوبری الکترومغناطیسی
+Coordinate-based fast lightweight path search algorithm for electromagnetic navigation bronchoscopy
+https://doi.org/10.1007/s11517-022-02740-8
+Medical & Biological Engineering & Computing
+61
+699 708
+1741-0444
+3.2
+2022 12
